@@ -2,8 +2,12 @@
 
 🚀 AI-powered resume parser that extracts text from resumes and provides real-time GPT feedback for job readiness.
 
----
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Repo Size](https://img.shields.io/github/repo-size/Vsandeep-ai-dev/jaai-llm-engineer-projects)
+![Last Commit](https://img.shields.io/github/last-commit/Vsandeep-ai-dev/jaai-llm-engineer-projects)
+![Issues](https://img.shields.io/github/issues/Vsandeep-ai-dev/jaai-llm-engineer-projects)
+![Forks](https://img.shields.io/github/forks/Vsandeep-ai-dev/jaai-llm-engineer-projects?style=social)
+![Stars](https://img.shields.io/github/stars/Vsandeep-ai-dev/jaai-llm-engineer-projects?style=social)
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/project-active-brightgreen)
 
