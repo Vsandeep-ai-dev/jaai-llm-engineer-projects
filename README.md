@@ -1,45 +1,32 @@
-# 🧠 Resume Parser + GPT Feedback (Project 1)
+# 📄 Resume Parser + GPT Feedback
 
-This app allows users to **upload their resume as a PDF**, parse its contents using **NLP**, and receive **AI-powered feedback** to improve it — using OpenAI's GPT models.
-
----
-
-## 🔍 Features
-
-✅ Upload a resume (PDF)  
-✅ Parse key details (Name, Skills, Experience, Education)  
-✅ GPT generates personalized feedback on resume quality  
-✅ Easily extendable for HR screening systems or SaaS  
-✅ Streamlit UI ready for demo  
-✅ Secure API integration
+🚀 AI-powered resume parser that extracts text from resumes and provides real-time GPT feedback for job readiness.
 
 ---
 
-## 🛠️ Tech Stack
-
-- Python
-- Streamlit
-- OpenAI GPT (via API)
-- PyPDF2 / pdfminer
-- Regex
-- dotenv
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/project-active-brightgreen)
 
 ---
 
-## 📷 Screenshots
+## 📸 Demo Screenshot
 
-| Upload PDF | GPT Feedback |
-|------------|--------------|
-| ![Upload](./screens/upload.png) | ![Feedback](./screens/feedback.png) |
-
-*(Replace with real screenshots if possible)*
+📌 *(To be added after OpenAI API subscription)*  
+> A screenshot of the working app will appear here once API key is active.
 
 ---
 
-## 🚀 How to Run Locally
+## ⚙️ How to Run the Project
 
 ```bash
+# 1. Clone the repository
 git clone https://github.com/Vsandeep-ai-dev/jaai-llm-engineer-projects.git
-cd resume-parser-gpt
+
+# 2. Navigate to the project folder
+cd jaai-llm-engineer-projects
+
+# 3. Install dependencies
 pip install -r requirements.txt
 
+# 4. Run the app
+streamlit run app.py
