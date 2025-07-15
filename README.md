@@ -17,6 +17,13 @@
 - [Demo Screenshot](#demo-screenshot)
 - [How to Run the Project](#how-to-run-the-project)
 - [License](#license)
+## 📂 Projects Index
+
+| #  | Project Name             | Description                             | Repository Link |
+|----|--------------------------|-----------------------------------------|------------------|
+| ✅ 1 | Resume Parser GPT       | Extracts info from resumes + GPT feedback | [View Repo](https://github.com/Vsandeep-ai-dev/jaai-llm-engineer-projects/tree/main/resume-parser-gpt) |
+| 🧠 2 | PDF RAG Chatbot | Chat with PDF using LangChain + GPT | [View Repo](https://github.com/Vsandeep-ai-dev/pdf-rag-chatbot) |
+
 
 ---
 
